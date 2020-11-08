@@ -13,7 +13,7 @@ namespace ProductReviewManagement
     /// <summary>
     /// UC 1 : Class having mentioned properties
     /// </summary>
-    class ProductReview
+    public class ProductReview
     {
         public int ProductID { get; set; }
         public int UserID { get; set; }
